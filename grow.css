@@ -1,0 +1,35 @@
+body {
+  background-color: pink;
+  position: relative;
+}
+
+#heart-pet-area {
+  position: relative;
+  display: flex;
+
+}
+canvas{
+  position: absolute;
+  left: 30%;
+  top: 20%;
+  background-color: white;
+}
+
+#food-area {
+  position: absolute;
+  left: 60%;
+  display: flex;
+  flex-direction: column;
+}
+
+#heart-num-area{
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+
+
